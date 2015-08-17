@@ -1,0 +1,29 @@
+{
+  "name": "bas-web-ser",
+  "version": "0.0.1",
+  "description": "Basic Web Service collective repo for start point of web service development and learning",
+  "keywords": [
+    "bas-web-ser",
+    "Basic Web Service"
+  ],
+  "author": "Ari Kekäläinen <ari.kekalainen@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/arikekalainen/bas-web-ser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arikekalainen/bas-web-ser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arikekalainen/bas-web-ser/issues"
+  },
+  "main": "gulpfile.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-run": "^1.6.10",
+    "gulp-typescript": "^2.8.0",
+    "run-sequence": "^1.1.2"
+  }
+}
