@@ -2,8 +2,8 @@
 	path = bas-web-ser-backend
 	url = https://github.com/arikekalainen/bas-web-ser-backend.git
 [submodule "bas-web-ser-client-components"]
-    path = bas-web-ser-client-components
-    url = git@github.com:arikekalainen/bas-web-ser-client-components.git
+	path = bas-web-ser-client-components
+	url = https://github.com/arikekalainen/bas-web-ser-client-components.git
 [submodule "bas-web-ser-typedefinitions"]
     path = bas-web-ser-typedefinitions
     url = git@github.com:arikekalainen/bas-web-ser-typedefinitions.git
