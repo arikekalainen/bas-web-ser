@@ -1,6 +1,6 @@
 [submodule "bas-web-ser-backend"]
-    path = bas-web-ser-backend
-    url = git@github.com:arikekalainen/bas-web-ser-backend.git
+	path = bas-web-ser-backend
+	url = https://github.com/arikekalainen/bas-web-ser-backend.git
 [submodule "bas-web-ser-client-components"]
     path = bas-web-ser-client-components
     url = git@github.com:arikekalainen/bas-web-ser-client-components.git
