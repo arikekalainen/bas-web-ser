@@ -5,8 +5,8 @@
 	path = bas-web-ser-client-components
 	url = https://github.com/arikekalainen/bas-web-ser-client-components.git
 [submodule "bas-web-ser-typedefinitions"]
-    path = bas-web-ser-typedefinitions
-    url = git@github.com:arikekalainen/bas-web-ser-typedefinitions.git
+	path = bas-web-ser-typedefinitions
+	url = https://github.com/arikekalainen/bas-web-ser-typedefinitions.git
 [submodule "bas-web-ser-example-app"]
     path = bas-web-ser-example-app
     url = git@github.com:arikekalainen/bas-web-ser-example-app.git
