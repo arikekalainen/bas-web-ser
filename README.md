@@ -26,5 +26,16 @@ This repository contains necessary files for fetching backend, frontend and type
 
 Might feel little bit overkill for now, but if and when the simple components starts to grow and starts to live their own life...
 
+## How to get started
+-- install nodejs, bower
+1. *$ git clone https://github.com/arikekalainen/bas-web-ser.git*
+2. *$ cd bas-web-ser*
+3. *$ git submodule update --init*
+4. *$ cd bas-web-ser-example-app*
+5. *$ npm install*
+6. *$ gulp*
+7. *$ cd release*
+8. *$ nodejs backend/main.js*
+9. *Open web browser and surf to http://localhost:3000*
 
 Enjoy! I will.
