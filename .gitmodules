@@ -10,3 +10,6 @@
 [submodule "base-element"]
 	path = base-element
 	url = https://github.com/arikekalainen/base-element
+[submodule "x-element"]
+	path = x-element
+	url = https://github.com/arikekalainen/x-element
