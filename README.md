@@ -33,6 +33,7 @@ Might feel little bit overkill for now, but if and when the simple components st
 * $ git submodule update --init
 * $ cd bas-web-ser-example-app
 * $ npm install
+* $ bower install
 * $ gulp
 * $ cd release
 * $ nodejs backend/main.js
