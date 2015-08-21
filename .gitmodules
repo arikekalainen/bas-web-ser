@@ -1,12 +1,12 @@
 [submodule "bas-web-ser-backend"]
 	path = bas-web-ser-backend
 	url = https://github.com/arikekalainen/bas-web-ser-backend.git
-[submodule "bas-web-ser-client-components"]
-	path = bas-web-ser-client-components
-	url = https://github.com/arikekalainen/bas-web-ser-client-components.git
 [submodule "bas-web-ser-typedefinitions"]
 	path = bas-web-ser-typedefinitions
 	url = https://github.com/arikekalainen/bas-web-ser-typedefinitions.git
 [submodule "bas-web-ser-example-app"]
 	path = bas-web-ser-example-app
 	url = https://github.com/arikekalainen/bas-web-ser-example-app.git
+[submodule "base-element"]
+	path = base-element
+	url = https://github.com/arikekalainen/base-element
